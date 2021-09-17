@@ -6,61 +6,61 @@
   top: -10vh;
   padding: 1vw;
 }
-#s:nth-child(1) {
+.s:nth-child(1) {
   animation: snow 19s linear 40s infinite normal backwards;
   left: 79%;
   opacity: 0.71;
   padding: 0.11vw;
 }
-#s:nth-child(2) {
+.s:nth-child(2) {
   animation: snow 19s linear 10s infinite normal backwards;
   left: 57%;
   opacity: 1.1;
   padding: 0.34vw;
 }
-#s:nth-child(3) {
+.s:nth-child(3) {
   animation: snow 14s linear 15s infinite normal backwards;
   left: 5%;
   opacity: 0.82;
   padding: 0.12vw;
 }
-#s:nth-child(4) {
+.s:nth-child(4) {
   animation: snow 14s linear 30s infinite normal backwards;
   left: 95%;
   opacity: 0.32;
   padding: 0.28vw;
 }
-#s:nth-child(5) {
+.s:nth-child(5) {
   animation: snow 12s linear 8s infinite normal backwards;
   left: 54%;
   opacity: 0.48;
   padding: 0.41vw;
 }
-#s:nth-child(6) {
+.s:nth-child(6) {
   animation: snow 16s linear 30s infinite normal backwards;
   left: 20%;
   opacity: 0.64;
   padding: 0.28vw;
 }
-#s:nth-child(7) {
+.s:nth-child(7) {
   animation: snow 12s linear 36s infinite normal backwards;
   left: 20%;
   opacity: 0.28;
   padding: 0.34vw;
 }
-#s:nth-child(8) {
+.s:nth-child(8) {
   animation: snow 13s linear 3s infinite normal backwards;
   left: 62%;
   opacity: 0.55;
   padding: 0.14vw;
 }
-#s:nth-child(9) {
+.s:nth-child(9) {
   animation: snow 18s linear 44s infinite normal backwards;
   left: 65%;
   opacity: 0.6;
   padding: 0.32vw;
 }
-#s:nth-child(10) {
+.s:nth-child(10) {
   animation: snow 16s linear 32s infinite normal backwards;
   left: 90%;
   opacity: 0.55;
@@ -149,5 +149,5 @@
 
 /* Snow HTML */
 /*
-<div class='snow'><div/><div/><div/><div/><div/><div/><div/><div/><div/><div/></div>
+<div class='snow'><div class='s'/><div class='s'/><div class='s'/><div class='s'/><div class='s'/><div class='s'/><div class='s'/><div class='s'/><div class='s'/><div class='s'/></div>
 */
